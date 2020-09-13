@@ -1,3 +1,16 @@
 Hello, World!
 создла первый коммит, отредактировала и закоммитила снова
 сохранила
+ввела got log и увидела историю коммитов и комментарии
+
+commit 3602bea58dc471a0038a13b882ebb1e9bb9143e0
+Author: Valeria Marchenko <marcenkolera60@gmail.com>
+Date:   Sun Sep 13 14:05:41 2020 +0700
+
+    "Correct 1 first commit"
+
+commit 90e74ee90c67e2b8ffc0c0180cca763d35ffc605
+Author: Valeria Marchenko <marcenkolera60@gmail.com>
+Date:   Sun Sep 13 13:29:50 2020 +0700
+
+    First commit
