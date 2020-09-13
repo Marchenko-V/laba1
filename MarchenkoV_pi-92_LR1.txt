@@ -14,3 +14,6 @@ Author: Valeria Marchenko <marcenkolera60@gmail.com>
 Date:   Sun Sep 13 13:29:50 2020 +0700
 
     First commit
+
+//нежелательный комментарий вот он 
+//был удален при использовании git checkout
